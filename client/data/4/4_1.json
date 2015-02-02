@@ -1,0 +1,26 @@
+[
+  {
+    "type": "new message",
+    "ts": 4055,
+    "data": {
+      "username": "t1",
+      "message": "1\n"
+    }
+  },
+  {
+    "type": "new message",
+    "ts": 22653,
+    "data": {
+      "username": "t1",
+      "message": "4\n"
+    }
+  },
+  {
+    "type": "new message",
+    "ts": 25832,
+    "data": {
+      "username": "s1",
+      "message": "5\n"
+    }
+  }
+]
