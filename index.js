@@ -194,7 +194,7 @@ app.use(errorHandler);
 // main
 //
 
-//mj_playback.start_playback_server(usernames);
+mj_playback.start_playback_server(usernames);
 
 io.on('connection', function(socket) {
 	socket_cb(socket);
