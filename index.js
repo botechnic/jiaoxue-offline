@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 81;
 
 var mj_playback = require('./server/mj_playback');
 var mj_playlive = require('./server/mj_playlive');
