@@ -30,3 +30,5 @@ build/Release
 .idea
 
 *.*~
+
+client/data
